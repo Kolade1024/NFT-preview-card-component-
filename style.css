@@ -142,7 +142,7 @@ a:focus{
     color: #00FFF8;
 }
 
-@media screen and (min-width: 325px )
+@media screen and (min-width: 225px )
 {
     main{
         max-width: 350px;
